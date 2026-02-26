@@ -1,0 +1,2 @@
+# autopsy--autonomous-self-reinforcing-trading-ecosystem
+ADVERSARIAL AUTOPSY REQUIRED. The mission 'Autonomous Self-Reinforcing Trading Ecosystem' FAILED.MASTER REFLECTION: QUALITY_SCORE: 2XP_AWARDED: 50NEW_TOPIC: SKILLS: [system_design, clarity, token_efficiency]METRICS:Coordination: 3Technical Complexity: 1Efficiency: 6Clarity: 4SUGGEST_UI: FalseSUGGESTION_ORIGINAL ERROR LOGS:Ollama model did not retur
